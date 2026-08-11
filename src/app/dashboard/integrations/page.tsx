@@ -1,0 +1,1 @@
+export default function IntegrationsPage() { return <div><h1 className="text-2xl font-bold mb-4">Integrations</h1><div className="bg-white p-8 rounded-lg border border-gray-100 shadow-sm text-gray-500">Connectors go here.</div></div>; }
